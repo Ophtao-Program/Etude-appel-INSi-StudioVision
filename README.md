@@ -102,7 +102,7 @@ L'outil se connecte à l'instance Access **déjà lancée** ; il n'ouvre ni ne f
 ## Installation
 
 ```bash
-git clone https://github.com/Ophtao-Program/Etude-INSi-StudioVision.git
+git clone https://github.com/Ophtao-Program/Etude-appel-INSi-StudioVision
 cd Etude-INSi-StudioVision
 pip install pywin32
 ```
